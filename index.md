@@ -1,37 +1,26 @@
-## Welcome k8smongodb: The place learn how to deploy MongoDB clusters to Kubernetes
+This site provides information and help for running [MongoDB clusters](http://todo) on [Kubernetes](http://todo), leveraging [Docker](http://todo), based on the use of [Kubernetes StatetfulSets](http://todo) to enable TODO.
 
-Test You can use the [editor on GitHub](https://github.com/pkdone/k8smongodb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction To Running MongoDB on Kubernetes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Deploying a MongoDB Replica Set as a Kubernetes StatefulSet](http://todo)
+2. [Configuring Some Key Production Settings for MongoDB on Kubernetes](http://todo)
+3. [Using the Enterprise Version of MongoDB on Kubernetes](http://todo)
+4. [Deploying a MongoDB Sharded Cluster using Kubernetes StatefulSets](http://todo)
 
-### Markdown
+**WARNING** Some online resource advocate deployment MongoDB using a [sidecar](http://todo) called [mongo-k8s-sidecar](http://todo) to help "auto-configure" a MongoDB cluster. Do NOT use such a mechanism in a Production environment because it will result in [non-determinisitc behaviour](http://todo), adversly affecting the MongoDB cluster's availabiliy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Getting Help / Support
 
-```markdown
-Syntax highlighted code block
+TODO
 
-# Header 1
-## Header 2
-### Header 3
+## Useful Kubernetes Resources
 
-- Bulleted
-- List
+TODO
 
-1. Numbered
-2. List
+## Useful Docker Resources
 
-**Bold** and _Italic_ and `Code` text
+TODO
 
-[Link](url) and ![Image](src)
-```
+## Useful MongoDB Resources
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pkdone/k8smongodb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TODO: in prod checklists
