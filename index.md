@@ -24,3 +24,8 @@ TODO
 ## Useful MongoDB Resources
 
 TODO: in prod checklists
+
+## TODO
+
+* k8s/mongo image in top left (merge 2 icons)
+* dns name mapping to this site
