@@ -26,6 +26,11 @@ TODO
 
 TODO: in prod checklists
 
+## Suggesting Changes To This Site
+
+If you have any suggested changes or additions to the content of this site, please raise create an [issue](https://github.com/pkdone/k8smongodb/issues) with a short description.
+
+
 ## TODO
 
 * k8s/mongo image in top left (merge 2 icons)
