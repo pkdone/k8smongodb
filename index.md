@@ -16,9 +16,14 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 2. [Deploying a MongoDB Sharded Cluster to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
 3. Deploying a MongoDB Replica Set to Azure Container Services (ACS) - coming soon
 
-## Getting Help / Support
+## Getting Help on Stack Overflow
 
-1. TODO
+1. ["kubernetes" tagged questions](https://stackoverflow.com/questions/tagged/kubernetes)
+2. ["google-container-engine" tagged questions](https://stackoverflow.com/questions/tagged/google-container-engine)
+3. ["azure-container-service" tagged questions](https://stackoverflow.com/questions/tagged/azure-container-service)
+4. ["mongodb" tagged questions](https://stackoverflow.com/questions/tagged/mongodb)
+
+> RECOMMENDED: When creating a new Stack Overflow question, define at least 2 tags: "mongodb" + one of the tags relating to the type of host Kubernetes environment.
 
 ## Useful Kubernetes Resources
 
