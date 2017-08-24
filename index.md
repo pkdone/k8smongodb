@@ -20,7 +20,7 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 2. [Google Container Engine (GKE) Manual](https://cloud.google.com/container-engine/docs/)
 3. [Azure Container Service (ACS) for Kubernetes Manual](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/)
 4. [OpenShift with Kubernetes Manual](https://docs.openshift.org/latest/welcome/index.html)
-5. [Kubernetes "Standalone" Minikube Manual](https://kubernetes.io/docs/getting-started-guides/minikube/)
+5. ["Local" Kubernetes Minikube Manual](https://kubernetes.io/docs/getting-started-guides/minikube/)
 
 ## Useful Docker Resources
 
@@ -30,11 +30,13 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 
 ## Useful MongoDB Resources
 
-1. TODO: in prod checklists
+1. [MongoDB Manual](https://docs.mongodb.com/manual/)
+2. [MongoDB Prodution Notes](https://docs.mongodb.com/manual/administration/production-notes/)
+3. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
 
 ## Suggesting Changes To This Site
 
-If you have any suggested changes or additions to the content of this site, please create an "[issue](https://github.com/pkdone/k8smongodb/issues)", with a short description.
+If you have any suggested changes or additions to the content of this web page, please create a new "[issue](https://github.com/pkdone/k8smongodb/issues)", with a short description.
 
 
 ## TODO
