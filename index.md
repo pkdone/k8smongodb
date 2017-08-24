@@ -12,23 +12,23 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 
 ## Getting Help / Support
 
-TODO
+1. TODO
 
 ## Useful Kubernetes Resources
 
-TODO
+1. [Kubernetes Manual](https://kubernetes.io/docs/concepts/)
 
 ## Useful Docker Resources
 
-TODO
+1. TODO
 
 ## Useful MongoDB Resources
 
-TODO: in prod checklists
+1. TODO: in prod checklists
 
 ## Suggesting Changes To This Site
 
-If you have any suggested changes or additions to the content of this site, please raise create an [issue](https://github.com/pkdone/k8smongodb/issues) with a short description.
+If you have any suggested changes or additions to the content of this site, please create an "[issue](https://github.com/pkdone/k8smongodb/issues)", with a short description.
 
 
 ## TODO
