@@ -12,9 +12,9 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 
 ## Example Quickstart GitHub Projects
 
-1. [Deploying a MongoDB Replica Set to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-demo)
-2. [Deploying a MongoDB Sharded Cluster to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
-3. Deploying a MongoDB Replica Set to Azure Container Services (ACS) - coming soon
+1. [Deploying a MongoDB Replica Set to the Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-demo)
+2. [Deploying a MongoDB Sharded Cluster to the Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
+3. Deploying a MongoDB Replica Set to the Azure Container Service (ACS) - coming soon
 
 ## Getting Help on Stack Overflow
 
@@ -23,7 +23,7 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 3. ["azure-container-service" tagged questions](https://stackoverflow.com/questions/tagged/azure-container-service)
 4. ["mongodb" tagged questions](https://stackoverflow.com/questions/tagged/mongodb)
 
-> RECOMMENDED: When creating a new Stack Overflow question, define at least 2 tags: "mongodb" + one of the tags relating to the type of host Kubernetes environment.
+> RECOMMENDED: When creating a new Stack Overflow question, define at least 2 tags: "mongodb" + a tag relating to the type of host Kubernetes environment.
 
 ## Useful Kubernetes Resources
 
