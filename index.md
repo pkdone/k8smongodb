@@ -17,10 +17,16 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 ## Useful Kubernetes Resources
 
 1. [Kubernetes Manual](https://kubernetes.io/docs/concepts/)
+2. [Google Container Engine (GKE) Manual](https://cloud.google.com/container-engine/docs/)
+3. [Azure Container Service (ACS) for Kubernetes Manual](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/)
+4. [OpenShift with Kubernetes Manual](https://docs.openshift.org/latest/welcome/index.html)
+5. [Kubernetes Minikube Manual](https://kubernetes.io/docs/getting-started-guides/minikube/)
 
 ## Useful Docker Resources
 
-1. TODO
+1. [Docker Manual](https://docs.docker.com/engine/)
+2. [Docker MongoDB Image Repository](https://hub.docker.com/_/mongo/)
+3. [Docker MongoDB Image GitHub Repository (inc. building Enterprise version)]https://github.com/docker-library/mongo)
 
 ## Useful MongoDB Resources
 
