@@ -54,4 +54,3 @@ If you have a suggested change or addition to the content of this web page, plea
 
 * k8s/mongo image in top left (merge 2 icons)
 * embed image icon for website to be shown in browser tabs
-* talk about gke, azure, openshift, minikubel, etc
