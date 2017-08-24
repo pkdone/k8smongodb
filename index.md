@@ -1,4 +1,4 @@
-Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on the [Kubernetes](https://kubernetes.io/) orchestration framework, leveraging [Docker](https://www.docker.com/) containers. A key tenet is [Kubernetes StatetfulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/), for stable dedicated network storage volumes and network hostnames, allowing data to outlive the lifetime of ephemeral containers.
+Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on the [Kubernetes](https://kubernetes.io/) orchestration framework, leveraging [Docker](https://www.docker.com/) containers. Kubernetes' [StatetfulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/) is a key capability to enable stable dedicated network storage volumes and network hostnames, allowing data to outlive the lifetime of ephemeral containers.
 
 ## Introduction To Running MongoDB on Kubernetes
 
