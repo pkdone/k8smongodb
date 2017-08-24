@@ -1,4 +1,4 @@
-Explore how to run [MongoDB](https://www.mongodb.com/) database clusters using the [Kubernetes](https://kubernetes.io/) orchestration framework, and leveraging [Docker](https://www.docker.com/) containers. A fundamental tenet is the use of, [Kubernetes StatetfulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/) to provide stable dedicated network storage volume and stable network hostnames, which are critical for running a resilient database hosting data that outlives the lifetime of inherently ephemeral containers.
+Exploring the best ways to run [MongoDB](https://www.mongodb.com/) database clusters, using the [Kubernetes](https://kubernetes.io/) orchestration framework, and leveraging [Docker](https://www.docker.com/) containers. Fundamental to this is [Kubernetes StatetfulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/), for stable dedicated network storage volumes and network hostnames, which are critical for resiliently managing data that outlives the lifetime of ephemeral containers.
 
 ## Introduction To Running MongoDB on Kubernetes
 
@@ -34,5 +34,4 @@ If you have any suggested changes or additions to the content of this site, plea
 ## TODO
 
 * k8s/mongo image in top left (merge 2 icons)
-* dns name mapping to this site
 * talk about gke, azure, openshift, local instal, etc
