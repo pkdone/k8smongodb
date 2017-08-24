@@ -10,7 +10,7 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 
 > WARNING: Some online resources advocate deploying a [sidecar](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar) called [mongo-k8s-sidecar](https://lh4.googleusercontent.com/ohALxLD4Ugj5FCwWqgqZ4xP9al4lTgrPDc9HsgPWYRZRz_buuYK6LKSC7A5n98DdOO-Po3Zq77Yt43-QhTWdIaXqltHI7PX0zMXAXbpiilYgdowGZapG0lJ9lgubwBj1CwNHHtXA) to help "auto-configure" a MongoDB cluster. Do NOT use this approach in Production environments as this will result in [non-determinisitc behaviour](http://pauldone.blogspot.com/2017/06/deploying-mongodb-on-kubernetes-gke25.html), adversly affecting database availabiliy.
 
-## Example Quickstart Projects
+## Example Quickstart GitHub Projects
 
 1. [Deploying a MongoDB Replica Set to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-demo)
 2. [Deploying a MongoDB Sharded Cluster to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
