@@ -12,8 +12,8 @@ Guidance for running [MongoDB](https://www.mongodb.com/) database clusters on th
 
 ## Example Quickstart Projects
 
-1. (Deploying a MongoDB Replica Set to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-demo)
-2. (Deploying a MongoDB Sharded Cluster to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
+1. [Deploying a MongoDB Replica Set to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-demo)
+2. [Deploying a MongoDB Sharded Cluster to Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
 3. Deploying a MongoDB Replica Set to Azure Container Services (ACS) - coming soon
 
 ## Getting Help / Support
