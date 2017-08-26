@@ -45,6 +45,6 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 2. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
 3. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
 
-## Suggesting Changes To This Page
+## Suggesting Changes To This Website
 
 If you have a suggested change or addition to the content of this web page, please create a new "[issue](https://github.com/pkdone/k8smongodb/issues)", with a short description.
