@@ -48,9 +48,3 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 ## Suggesting Changes To This Page
 
 If you have a suggested change or addition to the content of this web page, please create a new "[issue](https://github.com/pkdone/k8smongodb/issues)", with a short description.
-
-
-## TODO
-
-* k8s/mongo image in top left (merge 2 icons)
-* embed image icon for website to be shown in browser tabs
