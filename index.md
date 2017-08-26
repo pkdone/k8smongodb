@@ -35,7 +35,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 
 ## Useful Docker Resources
 
-1. [Docker Manual](https://docs.docker.com/engine/)
+1. [Docker Manual](https://docs.docker.com/)
 2. [Docker MongoDB Image Repository](https://hub.docker.com/_/mongo/)
 3. [Docker MongoDB Image GitHub Project (inc. building Enterprise version)](https://github.com/docker-library/mongo)
 
