@@ -28,7 +28,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 ## Useful Kubernetes Resources
 
 1. [Kubernetes Manual](https://kubernetes.io/docs/concepts/)
-2. [Google Container Engine (GKE) Manual](https://cloud.google.com/container-engine/docs/)
+2. [Google Container Engine (GKE) for Kubernetes Manual](https://cloud.google.com/container-engine/docs/)
 3. [Azure Container Service (ACS) for Kubernetes Manual](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/)
 4. [OpenShift with Kubernetes Manual](https://docs.openshift.org/latest/welcome/index.html)
 5. [Minikube (Kubernetes locally) Manual](https://kubernetes.io/docs/getting-started-guides/minikube/)
