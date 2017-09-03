@@ -22,7 +22,8 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 1. ["kubernetes" tagged questions](https://stackoverflow.com/questions/tagged/kubernetes)
 2. ["google-container-engine" tagged questions](https://stackoverflow.com/questions/tagged/google-container-engine)
 3. ["azure-container-service" tagged questions](https://stackoverflow.com/questions/tagged/azure-container-service)
-4. ["mongodb" tagged questions](https://stackoverflow.com/questions/tagged/mongodb)
+4. ["minikube" tagged questions](https://stackoverflow.com/questions/tagged/minikube)
+5. ["mongodb" tagged questions](https://stackoverflow.com/questions/tagged/mongodb)
 
 > RECOMMENDED: When creating a new Stack Overflow question, define at least 2 tags: "mongodb" + a tag relating to the type of host Kubernetes environment.
 
