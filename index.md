@@ -16,6 +16,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 2. [Deploying a MongoDB Sharded Cluster to the Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
 3. [Deploying a MongoDB Replica Set to the Azure Container Service (ACS)](https://github.com/pkdone/azure-acs-mongodb-demo)
 4. [Deploying a MongoDB Replica Set to a local Minikube environment](https://github.com/pkdone/minikube-mongodb-demo)
+5. Deploying a MongoDB Replica Set to an OpenShift environment] - COMING SOON
 
 ## Getting Help on Stack Overflow
 
@@ -23,7 +24,8 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 2. ["google-container-engine" tagged questions](https://stackoverflow.com/questions/tagged/google-container-engine)
 3. ["azure-container-service" tagged questions](https://stackoverflow.com/questions/tagged/azure-container-service)
 4. ["minikube" tagged questions](https://stackoverflow.com/questions/tagged/minikube)
-5. ["mongodb" tagged questions](https://stackoverflow.com/questions/tagged/mongodb)
+5. ["openshift" tagged questions](https://stackoverflow.com/questions/tagged/openshift)
+6. ["mongodb" tagged questions](https://stackoverflow.com/questions/tagged/mongodb)
 
 > RECOMMENDED: When creating a new Stack Overflow question, define at least 2 tags: "mongodb" + a tag relating to the type of host Kubernetes environment.
 
@@ -32,8 +34,8 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 1. [Kubernetes Manual](https://kubernetes.io/docs/concepts/)
 2. [Google Container Engine (GKE) for Kubernetes Manual](https://cloud.google.com/container-engine/docs/)
 3. [Azure Container Service (ACS) for Kubernetes Manual](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/)
-4. [OpenShift with Kubernetes Manual](https://docs.openshift.org/latest/welcome/index.html)
-5. [Minikube (Kubernetes locally) Manual](https://kubernetes.io/docs/getting-started-guides/minikube/)
+4. [Minikube (Kubernetes locally) Manual](https://kubernetes.io/docs/getting-started-guides/minikube/)
+5. [OpenShift with Kubernetes Manual](https://docs.openshift.org/latest/welcome/index.html)
 
 ## Useful Docker Resources
 
