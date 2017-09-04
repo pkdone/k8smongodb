@@ -16,7 +16,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 2. [Deploying a MongoDB Sharded Cluster to the Google Container Engine (GKE)](https://github.com/pkdone/gke-mongodb-shards-demo)
 3. [Deploying a MongoDB Replica Set to the Azure Container Service (ACS)](https://github.com/pkdone/azure-acs-mongodb-demo)
 4. [Deploying a MongoDB Replica Set to a local Minikube environment](https://github.com/pkdone/minikube-mongodb-demo)
-5. Deploying a MongoDB Replica Set to an OpenShift environment - COMING SOON
+5. [Deploying a MongoDB Replica Set to an OpenShift environment](https://github.com/pkdone/openshift-mongodb-demo)
 
 ## Getting Help on Stack Overflow
 
