@@ -50,6 +50,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 1. [MongoDB Manual](https://docs.mongodb.com/manual/)
 2. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
 3. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
+4. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
 
 ## Suggesting Changes To This Website
 
