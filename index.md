@@ -18,6 +18,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 4. [Deploying a MongoDB Replica Set to a local Minikube environment](https://github.com/pkdone/minikube-mongodb-demo)
 5. [Deploying a MongoDB Replica Set to an OpenShift environment](https://github.com/pkdone/openshift-mongodb-demo)
 6. [Deploying a MongoDB Replica Set to GKE Using MongoDB Cloud/Ops Manager](https://github.com/pkdone/k8s-cld-mgr)
+7. [MongoDB Ops Manager Openshift 'Developer Preview'](https://github.com/jasonmimick/mongodb-openshift-dev-preview) (by Jason Mimick)
 
 ## Getting Help on Stack Overflow
 
