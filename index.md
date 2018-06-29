@@ -49,9 +49,10 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 ## Useful MongoDB Resources
 
 1. [MongoDB Manual](https://docs.mongodb.com/manual/)
-2. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
-3. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
-4. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
+2. [MongoDB Enterprise Operator for Kubernetes and OpenShift](https://www.mongodb.com/blog/post/introducing-mongodb-enterprise-operator-for-kubernetes-openshift)
+3. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
+4. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
+5. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
 
 ## Suggesting Changes To This Website
 
