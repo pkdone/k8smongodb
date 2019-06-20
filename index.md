@@ -1,4 +1,4 @@
-Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on the [Kubernetes](https://kubernetes.io/) orchestration framework, leveraging [Docker](https://www.docker.com/) containers. [StatetfulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/) is a key dependency, to provide stable dedicated network storage volumes and hostnames, enabling data to outlive the lifetime of ephemeral containers. Note: The new [MongoDB Operator for Kubernetes](https://docs.opsmanager.mongodb.com/current/tutorial/install-k8s-operator/) incorporates these and other best practices in an easy to deploy way.
+Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on the [Kubernetes](https://kubernetes.io/) orchestration framework, leveraging [Docker](https://www.docker.com/) containers. [StatetfulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/) is a key dependency, to provide stable dedicated network storage volumes and hostnames, enabling data to outlive the lifetime of ephemeral containers. Note: The [MongoDB Operator for Kubernetes](https://docs.mongodb.com/kubernetes-operator/stable) incorporates these and other best practices in an easy to deploy way.
 
 ## Introduction To Running MongoDB on Kubernetes
 
@@ -6,7 +6,8 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 2. [Configuring Some Key Production Settings for MongoDB on Kubernetes](http://pauldone.blogspot.com/2017/06/mongodb-kubernetes-production-settings.html)
 3. [Using the Enterprise Version of MongoDB on Kubernetes](http://pauldone.blogspot.com/2017/06/enterprise-mongodb-on-kubernetes.html)
 4. [Deploying a MongoDB Sharded Cluster using Kubernetes StatefulSets](http://pauldone.blogspot.com/2017/07/sharded-mongodb-kubernetes.html)
-5. [MongoDB Operator for Kubernetes](https://www.mongodb.com/blog/post/introducing-mongodb-enterprise-operator-for-kubernetes-openshift) (by Robert Walters)
+5. [MongoDB and Kubernetes Home Page](https://www.mongodb.com/kubernetes)
+6. [MongoDB Operator for Kubernetes](https://www.mongodb.com/blog/post/introducing-mongodb-enterprise-operator-for-kubernetes-openshift) (by Robert Walters)
 
 
 > WARNING: Some online resources advocate deploying a [sidecar](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar), called [mongo-k8s-sidecar](https://lh4.googleusercontent.com/ohALxLD4Ugj5FCwWqgqZ4xP9al4lTgrPDc9HsgPWYRZRz_buuYK6LKSC7A5n98DdOO-Po3Zq77Yt43-QhTWdIaXqltHI7PX0zMXAXbpiilYgdowGZapG0lJ9lgubwBj1CwNHHtXA), to help "auto-configure" a MongoDB cluster. Do NOT employ that approach in Production environments, because this will result in [non-deterministic behaviour](http://pauldone.blogspot.com/2017/06/deploying-mongodb-on-kubernetes-gke25.html), adversely affecting database resiliency.
@@ -50,10 +51,11 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 ## Useful MongoDB Resources
 
 1. [MongoDB Manual](https://docs.mongodb.com/manual/)
-2. [MongoDB Enterprise Operator for Kubernetes](https://www.mongodb.com/blog/post/introducing-mongodb-enterprise-operator-for-kubernetes-openshift)
-3. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
-4. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
-5. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
+2. [MongoDB and Kubernetes Home Page](https://www.mongodb.com/kubernetes)
+3. [MongoDB Enterprise Kubernetes Operator](https://docs.mongodb.com/kubernetes-operator/stable)
+4. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
+5. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
+6. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
 
 ## Suggesting Changes To This Website
 
