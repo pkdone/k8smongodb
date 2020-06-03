@@ -10,7 +10,7 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 6. [MongoDB Operator for Kubernetes](https://www.mongodb.com/blog/post/introducing-the-mongodb-enterprise-operator-for-kubernetes) (by Robert Walters & Andrey Belik)
 
 
-> WARNING: Some online resources advocate deploying a [sidecar](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar), called [mongo-k8s-sidecar](https://lh4.googleusercontent.com/ohALxLD4Ugj5FCwWqgqZ4xP9al4lTgrPDc9HsgPWYRZRz_buuYK6LKSC7A5n98DdOO-Po3Zq77Yt43-QhTWdIaXqltHI7PX0zMXAXbpiilYgdowGZapG0lJ9lgubwBj1CwNHHtXA), to help "auto-configure" a MongoDB cluster. Do NOT employ that approach in Production environments, because this will result in [non-deterministic behaviour](http://pauldone.blogspot.com/2017/06/deploying-mongodb-on-kubernetes-gke25.html), adversely affecting database resiliency.
+> WARNING: Some online resources advocate deploying a [sidecar](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar), called [mongo-k8s-sidecar](https://github.com/cvallance/mongo-k8s-sidecar), to help "auto-configure" a MongoDB cluster. Do NOT employ that approach in Production environments, because this will result in [non-deterministic behaviour](http://pauldone.blogspot.com/2017/06/deploying-mongodb-on-kubernetes-gke25.html), adversely affecting database resiliency.
 
 ## Example Quickstart GitHub Projects
 
