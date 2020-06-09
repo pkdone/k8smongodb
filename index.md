@@ -52,9 +52,10 @@ Guidance for running a [MongoDB](https://www.mongodb.com/) database cluster on t
 1. [MongoDB Manual](https://docs.mongodb.com/manual/)
 2. [MongoDB and Kubernetes Home Page](https://www.mongodb.com/kubernetes)
 3. [MongoDB Enterprise Kubernetes Operator](https://docs.mongodb.com/kubernetes-operator/stable)
-4. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
-5. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
-6. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
+4. [MongoDB Community Kubernetes Operator](https://github.com/mongodb/mongodb-kubernetes-operator)
+5. [MongoDB Production Notes](https://docs.mongodb.com/manual/administration/production-notes/)
+6. [MongoDB Operations Checklist](https://docs.mongodb.com/manual/administration/production-checklist-operations/)
+7. [MongoDB Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
 
 ## Suggesting Changes To This Website
 
